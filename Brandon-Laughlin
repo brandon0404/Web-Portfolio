@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brandon Laughlin - Web Portfolio</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Brandon Laughlin</h1>
+        <p>Software Engineer from Texas</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a passionate and focused software engineer who seeks the solution to every problem. I enjoy working with others because not only do I get to learn from them, but togethere as a team with a focused leader, no work is impossible. When I am not doing web development, I thoroughly enjoy spending time with family. Family is an important part of my life that could never be replaced.</p>
+    </section>
+<section id="contact">
+<h3>Contact</h3>
+<
+  <nav>
+    <ul>
+            <li><a href="https://github.com/brandon0404">GitHubProfile</a></li>
+            <li><a href="https://www.linkedin.com/in/brandon-laughlin-37b226297">LinkedInProfile</a></li>
+    </nav>
+   </section>
+
+    <footer>
+        <p>&copy; 2023 Your Name</p>
+    </footer>
+</body>
+</html>
